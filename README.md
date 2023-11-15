@@ -1,4 +1,4 @@
-## Calcmed - Uma Calculadora de Média Simples
+## Mediadora - Uma Calculadora de Média Simples
 Um aplicativo feito em python para calcular a média para a escola.
 
 ### Como usar
